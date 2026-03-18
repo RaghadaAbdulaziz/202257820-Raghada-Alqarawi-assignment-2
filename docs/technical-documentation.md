@@ -97,7 +97,7 @@ The application follows a single-page structure where all interactions are handl
 
 - Added project filtering and search functionality
 - Introduced modal popup for dynamic project details
-- Improved form structure by adding labels (fixing previous feedback)
+- Improved form structure by adding labels.
 - Implemented localStorage for theme persistence
 - Added animations (scroll reveal and transitions)
 - Improved navigation with active section highlighting
@@ -108,7 +108,6 @@ The application follows a single-page structure where all interactions are handl
 ## Known Issues & Future Improvements
 
 - Add backend integration for real form submission
-- Improve accessibility using ARIA attributes
 - Add keyboard navigation support
 - Replace placeholder visuals with real project images
 - Add advanced animations for modal transitions
